@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanha\\Desktop\\T6\\DoAn\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E00751E-E1F9-4EA0-B268-57BC49B835BF}|DoAn\\DoAn.csproj|c:\\users\\vanha\\desktop\\t6\\doan\\doan\\doan\\views\\dangnhap\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E00751E-E1F9-4EA0-B268-57BC49B835BF}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\dangnhap\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E00751E-E1F9-4EA0-B268-57BC49B835BF}|DoAn\\DoAn.csproj|c:\\users\\vanha\\desktop\\t6\\doan\\doan\\doan\\views\\hosonhanvien\\hosonv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E00751E-E1F9-4EA0-B268-57BC49B835BF}|DoAn\\DoAn.csproj|solutionrelative:doan\\views\\hosonhanvien\\hosonv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E00751E-E1F9-4EA0-B268-57BC49B835BF}|DoAn\\DoAn.csproj|c:\\users\\vanha\\desktop\\t6\\doan\\doan\\doan\\models\\hosonhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E00751E-E1F9-4EA0-B268-57BC49B835BF}|DoAn\\DoAn.csproj|solutionrelative:doan\\models\\hosonhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanha\\Desktop\\T6\\DoAn\\DoAn\\DoAn\\Views\\DangNhap\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\DangNhap\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\Vanha\\Desktop\\T6\\DoAn\\DoAn\\DoAn\\Views\\DangNhap\\DangNhap.cshtml*",
+              "RelativeToolTip": "DoAn\\Views\\DangNhap\\DangNhap.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:05:52.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HosoNV.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanha\\Desktop\\T6\\DoAn\\DoAn\\DoAn\\Views\\HoSoNhanVien\\HosoNV.cshtml",
+              "RelativeDocumentMoniker": "DoAn\\Views\\HoSoNhanVien\\HosoNV.cshtml",
+              "ToolTip": "C:\\Users\\Vanha\\Desktop\\T6\\DoAn\\DoAn\\DoAn\\Views\\HoSoNhanVien\\HosoNV.cshtml",
+              "RelativeToolTip": "DoAn\\Views\\HoSoNhanVien\\HosoNV.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:05:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoSoNhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Vanha\\Desktop\\T6\\DoAn\\DoAn\\DoAn\\Models\\HoSoNhanVienController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Models\\HoSoNhanVienController.cs",
+              "ToolTip": "C:\\Users\\Vanha\\Desktop\\T6\\DoAn\\DoAn\\DoAn\\Models\\HoSoNhanVienController.cs",
+              "RelativeToolTip": "DoAn\\Models\\HoSoNhanVienController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:04:28.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
